@@ -1,2 +1,1 @@
-HWID_NaUzmtw7GXvYAqQLmd2uK3oyKAq23WWB5oWcLGHfhs_END:2025-10-01 -> Owner (Jar_or_dll)
-HWID_BlCD5lOB3F735pcdj32vcUZ3jw2KtYQygVny57Rr0U_END:2025-08-14 -> Moderator DeadMine (3oopik1)
+HWID_NaUzmtw7GXvYAqQLmd2uK3oyKAq23WWB5oWcLGHfhs_END:2025-10-01
