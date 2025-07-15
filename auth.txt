@@ -4,3 +4,4 @@ HWID_GtzWbkw05f0xmb3N6LRK8t1t7hBzCsE6Mqas085Rx0U_END:2025-08-15 <- Moder --163k-
 HWID_50H5vsACeuDcKLyuVW5XPaCXw6sJNjfKvHBl6qv9fs_END:2025-08-15 <- Moder --ProLesyk--
 HWID_nbrbm9ePNaYqblaWlIzPqWitVwyvL0MnNIqew6NGI4_END:2025-08-15 <- Moder --HARKEVIC--
 HWID_lnNvXh34xL8D0A9I6K2ZFeJkPhO0JYl1uDpHO7t5c_END:2025-08-15 <- Moder --chokopai1434--
+HWID_ZJ4ip2SrzqwqnqkjvqwKAhZqdhgYpVZMBG6y1sNaT5E_END:2025-08-15 <- Moder --Fr1eezUA--
